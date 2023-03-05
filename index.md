@@ -6,7 +6,7 @@ E-mail: [zzzzzzzp123@163.com](zzzzzzzp123@163.com)
 
 ### Research Background
 
-Yuxuan Huang received the B.S. and Ph.D. degrees in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2017 and 2022, respectively.
+Yuxuan Huang received the B.S. and Ph.D. degrees in the Department of Electronic Engineering from Tsinghua University, Beijing, China, in 2017 and 2022, respectively.  
 His research interests include energy harvesting for body area networks, non-volatile memory, and computing-in-memory system design.
 
 ### Publication
