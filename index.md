@@ -2,7 +2,7 @@
 
 ### Yuxuan Huang
 
-E-mail: [zzzzzzzp123@163.com](zzzzzzzp123@163.com)
+E-mail: [georgehuangthu@gmail.com](georgehuangthu@gmail.com)
 
 ### Research Background
 
